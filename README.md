@@ -2,6 +2,8 @@
 
 Mental health metrics, namely psychological stress, lonely expressions, anxiety, and sentiment are measured daily using pre-trained machine learning models applied to a random 1% Twitter data. For more details, read our publication in the Journal of General Internal Medicine: http://wwbp.org/papers/jgim-2020.pdf 
 
+Dataset is available (upon request) at: https://zenodo.org/record/4064043 
+
 Data snapshot:
 | group_id         	| feat      	| value 	| group_norm       	| day        	| cnty  	|
 |------------------	|-----------	|-------	|------------------	|------------	|-------	|
