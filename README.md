@@ -1,4 +1,4 @@
-# Twitter estimates of County-level Mental Health
+# Twitter estimates of county-level mental health during COVID-19
 
 Mental health metrics, namely psychological stress, lonely expressions, anxiety, and sentiment are measured daily using pre-trained machine learning models applied to a random 1% Twitter data. For more details, read our publication in the Journal of General Internal Medicine: http://wwbp.org/papers/jgim-2020.pdf 
 
@@ -44,7 +44,12 @@ Bib:
 }
 ```
 
-Details of how these models were trained are described in the following papers:
+Details of sentiment, stress, and loneliness models are described in the following papers:
+Sentiment:
+```
+Mohammad, S. M., & Turney, P. D. (2013). Crowdsourcing a word–emotion association lexicon. Computational Intelligence, 29(3), 436-465.
+```
+
 Stress: 
 ```
 Guntuku, S. C., Buffone, A., Jaidka, K., Eichstaedt, J. C., & Ungar, L. H. (2019, July). Understanding and measuring psychological stress using social media. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 13, No. 01, pp. 214-225).
@@ -53,11 +58,6 @@ Guntuku, S. C., Buffone, A., Jaidka, K., Eichstaedt, J. C., & Ungar, L. H. (2019
 Loneliness: 
 ```
 Guntuku, S. C., Schneider, R., Pelullo, A., Young, J., Wong, V., Ungar, L., ... & Merchant, R. (2019). Studying expressions of loneliness in individuals using twitter: an observational study. BMJ open, 9(11).
-```
-
-Sentiment:
-```
-Mohammad, S. M., & Turney, P. D. (2013). Crowdsourcing a word–emotion association lexicon. Computational Intelligence, 29(3), 436-465.
 ```
 
 For any queries, please reach out at `sharathg at cis dot upenn dot edu` or `garricks at sas dot upenn dot edu`.
