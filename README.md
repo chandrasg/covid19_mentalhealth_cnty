@@ -12,10 +12,15 @@ Data snapshot:
 | 2020-04-16:01021 	| ANX_SCORE 	| 96    	| 3.02387743147066 	| 2020-04-16 	| 01021 	|
 
 `cnty`: FIPS code of county
+
 `day`: date
+
 `group_norm`: mental health estimate
+
 `value`: number of words contributing to the estimate
+
 `feat`: descriptor of metric
+
 `group_id`: concatenation of `day`:`cnty`
 
 This data (aggregated to the state-level) is also used to update the Penn COVID Twitter Map https://penncovid19hub.com/twitter-map 
