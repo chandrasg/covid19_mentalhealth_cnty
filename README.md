@@ -15,7 +15,7 @@ Data snapshot:
 
 `day`: date
 
-`group_norm`: mental health estimate
+`group_norm`: mental health estimate; a sum of term relative frequencies weighted by their association with this mental health outcome in the pre-trained model
 
 `value`: number of words contributing to the estimate
 
