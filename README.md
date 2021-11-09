@@ -60,4 +60,12 @@ Loneliness:
 Guntuku, S. C., Schneider, R., Pelullo, A., Young, J., Wong, V., Ungar, L., ... & Merchant, R. (2019). Studying expressions of loneliness in individuals using twitter: an observational study. BMJ open, 9(11).
 ```
 
+Anxiety: 
+```
+Schwartz HA, Eichstaedt J, Kern M, Park G, Sap M, Stillwell D, Kosinski M, Ungar L. Towards assessing changes in degree of depression through Facebook. In Proceedings of the workshop on computational linguistics and clinical psychology: from linguistic signal to clinical reality. Baltimore: Association for Computational Linguistics; 2014. p. 118–125.
+
+Guntuku, S. C., Preotiuc-Pietro, D., Eichstaedt, J. C., & Ungar, L. H. (2019, July). What twitter profile and posted images reveal about depression and anxiety. In Proceedings of the international AAAI conference on web and social media (Vol. 13, pp. 236-246).
+```
+
+
 For any queries, please reach out at `sharathg at cis dot upenn dot edu` or `garricks at sas dot upenn dot edu`.
